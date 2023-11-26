@@ -1,0 +1,14 @@
+.login-body{
+    background-image: url('../img/login-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login-form{
+    background: rgba(29, 28, 28, 0.5);
+}
+.loginMain{
+    margin-top: 15%;
+}
+.register-here a{
+    text-decoration: none;
+}
