@@ -4,11 +4,19 @@
     background-size: cover;
 }
 .login-form{
-    background: rgba(29, 28, 28, 0.5);
+    background: rgba(20, 20, 20, 0.5);
 }
 .loginMain{
     margin-top: 15%;
 }
 .register-here a{
     text-decoration: none;
+}
+.btn{
+    margin-left: 55px;
+}
+.register-body {
+    background-image: url('../img/login-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
